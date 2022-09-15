@@ -1,1 +1,1 @@
-# Cpp_tasks
+# This repository contains C++ tasks to crack any interview
