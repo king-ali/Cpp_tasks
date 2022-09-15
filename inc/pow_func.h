@@ -1,0 +1,9 @@
+
+//
+// Created by User on 10/08/2022.
+//
+
+#ifndef WEBRTC_INTERNSHIP_POW_FUNC_H
+#define WEBRTC_INTERNSHIP_POW_FUNC_H
+
+#endif //WEBRTC_INTERNSHIP_POW_FUNC_H
